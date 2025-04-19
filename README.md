@@ -3,7 +3,7 @@
 
 This project's goal is to design a control algorithm for a robot that can be used to relieve medical attendants of repetitive and physically demanding tasks , such as bringing lab samples to the lab, retrieving medication from the pharmacy and moving bed. This robot will operate in the corridors and rooms with several humans present nearby the robot, who eventually want to push the robot aside. The environment requires a compliance-controlled motion platform which enables the robot to be pushed away by humans.
 
-To start up, the problem description is narrowed down to the main objective: the robot should be enabled such that it determines the magnitude and direction of a push from all directions. In case the main objective is fulfilled within the time span, the determined force and direction estimaton of a push should be implemented in a compliance controller.
+Main objective: the robot must have the capability to determine the magnitude of push from all directions.
 
 For further details about this project, please refer the [report](https://github.com/0error1000warning/Hospital-Robots/blob/main/5ARIP10_Final_Report_Group_Hospital_Robot_Motion_Platform.pdf).
 
