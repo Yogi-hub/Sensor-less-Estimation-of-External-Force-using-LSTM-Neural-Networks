@@ -1,10 +1,8 @@
 ## Sensor-less External Force Estimation Using LSTM Neural Networks
 
-**Sensor-less Estimation of External Force using LSTM Neural Networks** is an interdisciplinary project conducted at TU/e (Course Code: 5ARIP10) aiming to enable a mobile robot to detect and quantify human pushes without dedicated force sensors.
+**Sensor-less Estimation of External Force using LSTM Neural Networks** is an interdisciplinary project conducted at TU/e (Course Code: 5ARIP10) aims to enable a mobile robot to detect human push by estimating the magnitude of the external force acting on the robot, without dedicated hardward/sensors.
 
-The system leverages a compliance–controlled motion platform that safely yields when contacted by humans in corridors or rooms, while estimating the magnitude of the push from all directions.
-
-For a full project overview, system design, and evaluation results, see the final group report: **5ARIP10_Final_Report_Group_Hospital_Robot_Motion_Platform.pdf**.
+For a full project overview, system design, evaluation and results, see the final group report: **5ARIP10_Final_Report_Group_Hospital_Robot_Motion_Platform.pdf**.
 
 ---
 
